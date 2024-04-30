@@ -5,6 +5,7 @@
         <page name='SwiftBasic'/>
         <page name='Variables'/>
         <page name='Operators'/>
+        <page name='Optionals'/>
         <page name='Functions'/>
     </pages>
 </playground>
